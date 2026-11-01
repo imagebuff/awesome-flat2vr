@@ -1689,8 +1689,8 @@
     ],
     "controls": "6dof",
     "status": "beta",
-    "version": "v1.2.8",
-    "version_date": "2026-10-30",
+    "version": "v1.2.12",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/vr4all-standalone/confidential-mission-vr/releases/latest",
     "source_url": "https://github.com/vr4all-standalone/confidential-mission-vr",
     "homepage": "https://questports.vercel.app/ports/confidential-mission-vr",
@@ -1720,7 +1720,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://questports.vercel.app/ports/confidential-mission-vr",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "control-vr",
@@ -3327,8 +3327,8 @@
     "platform": "pcvr",
     "controls": "mixed",
     "status": "stable",
-    "version": "v1.6.7",
-    "version_date": "2026-10-29",
+    "version": "v1.6.8",
+    "version_date": "2026-11-01",
     "download_url": "https://github.com/Saikava/flatout2-vr/releases/latest",
     "source_url": "https://github.com/Saikava/flatout2-vr",
     "license": "MIT",
@@ -3352,7 +3352,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/Saikava/flatout2-vr",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "flatout-4-vr",
@@ -4289,8 +4289,8 @@
     "platform": "pcvr",
     "controls": "mixed",
     "status": "alpha",
-    "version": "v0.3.2",
-    "version_date": "2026-10-24",
+    "version": "v0.3.3",
+    "version_date": "2026-11-01",
     "download_url": "https://github.com/simplysnake/GrimDawn_mod/releases/latest",
     "source_url": "https://github.com/simplysnake/GrimDawn_mod",
     "license": "unknown",
@@ -4319,7 +4319,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/simplysnake/GrimDawn_mod",
-    "last_checked": "2026-10-28"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "gta-san-andreas-vr-for-quest",
@@ -4589,8 +4589,8 @@
     "platform": "pcvr",
     "controls": "6dof",
     "status": "beta",
-    "version": "v0.3.1",
-    "version_date": "2026-10-21",
+    "version": "v0.4.0",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/DmitryShaburov/Blue-Shift-VR/releases/latest",
     "source_url": "https://github.com/DmitryShaburov/Blue-Shift-VR",
     "license": "unknown",
@@ -4626,7 +4626,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/DmitryShaburov/Blue-Shift-VR",
-    "last_checked": "2026-10-28"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "half-life-vr-mod",
@@ -4978,8 +4978,8 @@
     "platform": "pcvr",
     "controls": "6dof",
     "status": "alpha",
-    "version": "alpha-1",
-    "version_date": "2026-10-28",
+    "version": "alpha-2-rc1",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/andreystashev/hitman-2-silent-assassin-vr-showcase/releases/latest",
     "source_url": "https://github.com/andreystashev/hitman-2-silent-assassin-vr-showcase",
     "license": "unknown",
@@ -5008,7 +5008,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/andreystashev/hitman-2-silent-assassin-vr-showcase",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "hitman-blood-money-vr",
@@ -5029,8 +5029,8 @@
     ],
     "controls": "6dof",
     "status": "alpha",
-    "version": "v0.1.8.174-alpha.5",
-    "version_date": "2026-10-29",
+    "version": "v0.1.8.175-alpha.6",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/andreystashev/hitman-blood-money-vr-showcase/releases/latest",
     "source_url": "https://github.com/andreystashev/hitman-blood-money-vr-showcase",
     "homepage": "https://github.com/andreystashev/hitman-blood-money-vr-showcase/releases",
@@ -5063,7 +5063,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/andreystashev/hitman-blood-money-vr-showcase",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "howtofish-vrmod",
@@ -6484,8 +6484,8 @@
     ],
     "controls": "6dof",
     "status": "beta",
-    "version": "beta",
-    "version_date": "2026-10-16",
+    "version": "beta.1",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/CaptainBrannigan/WarfighterVR/releases/latest",
     "source_url": "https://github.com/CaptainBrannigan/WarfighterVR",
     "license": "unknown",
@@ -6505,7 +6505,7 @@
     "reviews": [],
     "added_by": "bot",
     "discovered_via": "https://github.com/CaptainBrannigan/WarfighterVR",
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "mothervr",
@@ -6858,8 +6858,8 @@
     ],
     "platform": "pcvr",
     "status": "alpha",
-    "version": "v0.8.3",
-    "version_date": "2026-10-28",
+    "version": "v0.8.5",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/bldbrne-vr/bldbrne-vr/releases/latest",
     "source_url": "https://github.com/bldbrne-vr/bldbrne-vr",
     "license": "unknown",
@@ -6888,7 +6888,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/bldbrne-vr/bldbrne-vr",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "ninja-assault-vr",
@@ -7923,8 +7923,8 @@
     ],
     "controls": "6dof",
     "status": "alpha",
-    "version": "v1.0.0-alpha.1",
-    "version_date": "2026-10-29",
+    "version": "v1.0.0-alpha.3",
+    "version_date": "2026-11-01",
     "download_url": "https://github.com/iChris4/MetroidPrime2PortVR/releases/latest",
     "source_url": "https://github.com/iChris4/MetroidPrime2PortVR",
     "license": "unknown",
@@ -7953,7 +7953,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://sidequestvr.com/app/63806",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "primedgun-quest-3",
@@ -9499,8 +9499,8 @@
     ],
     "controls": "6dof",
     "status": "alpha",
-    "version": "build-318",
-    "version_date": "2026-10-27",
+    "version": "build-320",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/Cesarus85/ringfall-mjolnir-vr/releases/latest",
     "source_url": "https://github.com/Cesarus85/ringfall-mjolnir-vr",
     "license": "CC0-1.0",
@@ -9518,7 +9518,7 @@
     "reviews": [],
     "added_by": "bot",
     "discovered_via": "https://github.com/Cesarus85/ringfall-mjolnir-vr",
-    "last_checked": "2026-10-28"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "road-rash-jailbreak-vr",
@@ -9914,8 +9914,8 @@
     "platform": "pcvr",
     "controls": "6dof",
     "status": "alpha",
-    "version": "v0.2.11-dev.0f591713f224",
-    "version_date": "2026-10-29",
+    "version": "v0.2.11-dev.e23fb2fafab8",
+    "version_date": "2026-10-31",
     "download_url": "https://github.com/ObeseCatLord/Serious-Sam-2-VR/releases/latest",
     "source_url": "https://github.com/ObeseCatLord/Serious-Sam-2-VR",
     "license": "MIT",
@@ -9946,7 +9946,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/ObeseCatLord/Serious-Sam-2-VR",
-    "last_checked": "2026-10-30"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "shipbreakervr",
@@ -10633,8 +10633,8 @@
     "platform": "pcvr",
     "controls": "6dof",
     "status": "stable",
-    "version": "v1.0.9",
-    "version_date": "2026-10-24",
+    "version": "v1.1.0",
+    "version_date": "2026-11-01",
     "download_url": "https://github.com/Bateau01/SOMA-VR/releases/latest",
     "source_url": "https://github.com/Bateau01/SOMA-VR",
     "license": "GPL-3.0",
@@ -10663,7 +10663,7 @@
     ],
     "added_by": "bot",
     "discovered_via": "https://github.com/Bateau01/SOMA-VR",
-    "last_checked": "2026-10-28"
+    "last_checked": "2026-11-01"
   },
   {
     "slug": "sonic-robo-blast-2-vr",
