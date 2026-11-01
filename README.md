@@ -299,6 +299,7 @@ Other catalogs worth knowing about. They are not affiliated with this one.
 - [QuestPorts](https://questports.vercel.app/): standalone Quest ports, with install guides and in-browser install.
 - [UEVR Profiles](https://uevr-profiles.com/): per-game UEVR profiles.
 - [Flat2VR Discord](https://discord.gg/flat2vr): where most of these ports are announced and supported.
+- [UnflatVR](https://unflatvr.com/): VR mods for flatscreen games on PCVR, Meta Quest and Steam Frame, with official download links only, a Game Hub per game comparing its VR versions, and a page of every [R.E.A.L. VR supported game](https://unflatvr.com/dev/luke-ross/).
 
 ## License
 
